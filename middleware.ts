@@ -10,5 +10,5 @@ export const config = {
 };
 
 export default authMiddleware({
-    publicRoutes:["/"]
+    publicRoutes:["/","/api/webhook"]
 });

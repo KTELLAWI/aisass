@@ -71,8 +71,8 @@ export const Sidebar = ({
           <div className="relative h-8 w-8 mr-4">
             <Image fill alt="Logo" src="/logo.png" />
           </div>
-          <h1 className={cn("text-2xl font-bold", poppins.className)}>
-            Genius
+          <h1 className={cn("text-2xl  font-bold", poppins.className)}>
+          DigistacksAI
           </h1>
         </Link>
         <div className="space-y-1">
